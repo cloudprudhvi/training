@@ -1,1 +1,2 @@
+THIS IS A SAMPLE REPO FOR TRAINING
 # training
